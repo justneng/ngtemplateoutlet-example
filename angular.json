@@ -31,7 +31,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           },
@@ -107,5 +108,7 @@
       }
     }
   },
-  "defaultProject": "ngtemplateoutlet-example"
+  "cli": {
+    "analytics": "59df1eb3-1f07-4b20-afa8-9d656bb4f7cf"
+  }
 }
